@@ -12,6 +12,9 @@ heat_auto_24	=> KEY_F24
 heat_auto_25	=> KEY_F1
 heat_auto_26	=> KEY_F2
 
+
+COMING SOON !!!
+
 heat_min_16		=> BTN_TRIGGER_HAPPY16
 heat_min_19		=> BTN_TRIGGER_HAPPY19
 heat_min_20		=> BTN_TRIGGER_HAPPY20
