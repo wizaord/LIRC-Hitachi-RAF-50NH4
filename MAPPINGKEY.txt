@@ -1,0 +1,23 @@
+START	=> BTN_START
+
+STOP	=> KEY_STOP
+
+heat_auto_16	=> KEY_F16
+heat_auto_19	=> KEY_F19
+heat_auto_20	=> KEY_F20
+heat_auto_21	=> KEY_F21
+heat_auto_22	=> KEY_F22
+heat_auto_23	=> KEY_F23
+heat_auto_24	=> KEY_F24
+heat_auto_25	=> KEY_F1
+heat_auto_26	=> KEY_F2
+
+heat_min_16		=> BTN_TRIGGER_HAPPY16
+heat_min_19		=> BTN_TRIGGER_HAPPY19
+heat_min_20		=> BTN_TRIGGER_HAPPY20
+heat_min_21		=> BTN_TRIGGER_HAPPY21
+heat_min_22		=> BTN_TRIGGER_HAPPY22
+heat_min_23		=> BTN_TRIGGER_HAPPY23
+heat_min_24		=> BTN_TRIGGER_HAPPY24
+heat_min_25		=> BTN_TRIGGER_HAPPY25
+heat_min_26		=> BTN_TRIGGER_HAPPY26
