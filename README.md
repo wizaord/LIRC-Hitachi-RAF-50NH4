@@ -3,7 +3,7 @@ LIRC configuration for Hitachi RAR 50NH4
 
 #Prerequis
 Installer sur le poste LIRC avec les configurations suivantes
-Pour faire marcher la 0.9.4.c
+Pour faire marcher la 0.9.4.d
 
 L'idée va être de brancher l'emetteur RPI sur les gpio suivants :
 *gpio 23 : pour l'emission de données
