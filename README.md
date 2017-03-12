@@ -6,16 +6,16 @@ Installer sur le poste LIRC avec les configurations suivantes
 Pour faire marcher la 0.9.4.d
 
 L'idée va être de brancher l'emetteur RPI sur les gpio suivants :
-*gpio 23 : pour l'emission de données
-*gpio 22 : pour la réception de données (si vous voulez brancher un recepteur)
+- gpio 23 : pour l'emission de données
+- gpio 22 : pour la réception de données (si vous voulez brancher un recepteur)
 
-* Dans /boot/config.txt
+* 1 - Dans /boot/config.txt
 ```
 # Uncomment this to enable the lirc-rpi module
 dtoverlay=lirc-rpi,gpio_in_pin=23,gpio_out_pin=22
 ```
 
-* Dans /etc/modules
+* 2 - Dans /etc/modules
 ```
 lirc_dev
 lirc_rpi gpio_in_pin=23 gpio_out_pin=22
